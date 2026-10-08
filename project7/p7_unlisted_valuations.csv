@@ -1,0 +1,40 @@
+sec_id,valuation_date,valuation_aud,valuer
+PRV0001,2025-09-30,23906646.83,Manager valuation
+PRV0001,2025-12-31,24111726.8,Manager valuation
+PRV0001,2026-03-31,24779809.83,Manager valuation
+PRV0002,2025-09-30,6359089.15,Independent valuer X (fictional)
+PRV0002,2025-12-31,6220159.55,Manager valuation
+PRV0002,2026-03-31,6285689.16,Manager valuation
+PRV0003,2025-09-30,6447089.51,Independent valuer X (fictional)
+PRV0003,2025-12-31,6492385.88,Independent valuer X (fictional)
+PRV0004,2025-09-30,16795786.88,Manager valuation
+PRV0004,2025-12-31,16444454.6,Independent valuer X (fictional)
+PRV0005,2025-09-30,8377472.58,Manager valuation
+PRV0005,2025-12-31,8524062.38,Manager valuation
+PRV0005,2026-03-31,8310945.6,Manager valuation
+PRV0006,2025-09-30,5830874.26,Manager valuation
+PRV0006,2025-12-31,6070145.11,Manager valuation
+PRV0006,2026-03-31,6053449.86,Independent valuer X (fictional)
+PRV0007,2025-09-30,8643920.91,Manager valuation
+PRV0007,2025-12-31,8971219.3,Independent valuer X (fictional)
+PRV0007,2026-03-31,9226502.21,Independent valuer X (fictional)
+PRV0008,2025-09-30,19957669.07,Independent valuer X (fictional)
+PRV0008,2025-12-31,19904964.07,Independent valuer X (fictional)
+PRV0008,2026-03-31,19665178.72,Manager valuation
+PRV0009,2025-09-30,21858926.38,Manager valuation
+PRV0009,2025-12-31,21601884.56,Manager valuation
+PRV0009,2026-03-31,21458616.11,Independent valuer X (fictional)
+PRV0010,2025-09-30,8756785.28,Manager valuation
+PRV0010,2025-12-31,8705064.25,Manager valuation
+PRV0010,2026-03-31,8452584.63,Independent valuer X (fictional)
+PRV0012,2025-09-30,20552800.77,Independent valuer X (fictional)
+PRV0012,2025-12-31,20966302.2,Independent valuer X (fictional)
+PRV0012,2026-03-31,21809436.08,Independent valuer X (fictional)
+PRV0013,2025-09-30,13650305.93,Independent valuer X (fictional)
+PRV0013,2025-12-31,13413518.06,Manager valuation
+PRV0013,2026-03-31,13499411.7,Independent valuer X (fictional)
+PRV0014,2025-09-30,24924231.86,Independent valuer X (fictional)
+PRV0014,2025-12-31,24687306.65,Independent valuer X (fictional)
+PRV0015,2025-09-30,24461778.28,Independent valuer X (fictional)
+PRV0015,2025-12-31,24774044.16,Manager valuation
+PRV0015,2026-03-31,25300246.41,Manager valuation

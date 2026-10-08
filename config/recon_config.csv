@@ -1,0 +1,6 @@
+setting,value
+as_at_date,2026-06-30
+quantity_tolerance_units,0
+market_value_tolerance_aud,1.00
+input_folder,data/
+output_folder,output/

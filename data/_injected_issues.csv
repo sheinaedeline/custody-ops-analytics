@@ -1,0 +1,130 @@
+issue_type,table,key,note
+missing_isin,securities,S0182,
+missing_isin,securities,S0029,
+missing_isin,securities,S0154,
+missing_isin,securities,S0181,
+duplicate_trade_id,trades,T003570,
+duplicate_trade_id,trades,T009265,
+duplicate_trade_id,trades,T006315,
+duplicate_trade_id,trades,T008710,
+duplicate_trade_id,trades,T004467,
+duplicate_trade_id,trades,T006821,
+duplicate_trade_id,trades,T002380,
+duplicate_trade_id,trades,T008694,
+duplicate_trade_id,trades,T001391,
+duplicate_trade_id,trades,T001877,
+duplicate_trade_id,trades,T005158,
+duplicate_trade_id,trades,T009697,
+duplicate_trade_id,trades,T006324,
+duplicate_trade_id,trades,T001910,
+duplicate_trade_id,trades,T000989,
+settle_before_trade,trades,T004328,
+settle_before_trade,trades,T006200,
+settle_before_trade,trades,T001955,
+settle_before_trade,trades,T004930,
+settle_before_trade,trades,T007480,
+settle_before_trade,trades,T001014,
+settle_before_trade,trades,T005711,
+settle_before_trade,trades,T005608,
+non_positive_quantity,trades,T007562,
+non_positive_quantity,trades,T002259,
+non_positive_quantity,trades,T007849,
+non_positive_quantity,trades,T006739,
+non_positive_quantity,trades,T001127,
+non_positive_quantity,trades,T006191,
+non_positive_quantity,trades,T007757,
+non_positive_quantity,trades,T000489,
+non_positive_quantity,trades,T001876,
+non_positive_quantity,trades,T009986,
+currency_mismatch,trades,T001979,security currency differs
+currency_mismatch,trades,T008662,security currency differs
+currency_mismatch,trades,T004392,security currency differs
+currency_mismatch,trades,T000944,security currency differs
+currency_mismatch,trades,T008006,security currency differs
+currency_mismatch,trades,T007966,security currency differs
+orphan_security_id,trades,T005718,S9579
+orphan_security_id,trades,T005517,S9986
+orphan_security_id,trades,T005042,S9680
+orphan_security_id,trades,T008244,S9831
+orphan_security_id,trades,T002271,S9961
+recon_quantity_break,client_positions,A0037|S0054,delta 1300
+recon_quantity_break,client_positions,A0040|S0002,delta -1800
+recon_quantity_break,client_positions,A0016|S0109,delta 1600
+recon_quantity_break,client_positions,A0009|S0006,delta -1500
+recon_quantity_break,client_positions,A0019|S0028,delta 1600
+recon_quantity_break,client_positions,A0019|S0163,delta -100
+recon_quantity_break,client_positions,A0033|S0027,delta 1900
+recon_quantity_break,client_positions,A0002|S0085,delta 1900
+recon_quantity_break,client_positions,A0004|S0152,delta -500
+recon_quantity_break,client_positions,A0037|S0190,delta 1600
+recon_quantity_break,client_positions,A0026|S0068,delta -800
+recon_quantity_break,client_positions,A0040|S0102,delta 1400
+recon_quantity_break,client_positions,A0011|S0126,delta -600
+recon_quantity_break,client_positions,A0027|S0085,delta -1800
+recon_quantity_break,client_positions,A0033|S0170,delta 1800
+recon_quantity_break,client_positions,A0024|S0038,delta -1600
+recon_quantity_break,client_positions,A0038|S0026,delta -200
+recon_quantity_break,client_positions,A0023|S0170,delta 200
+recon_quantity_break,client_positions,A0027|S0112,delta -1100
+recon_quantity_break,client_positions,A0030|S0028,delta 1700
+recon_quantity_break,client_positions,A0017|S0027,delta -500
+recon_quantity_break,client_positions,A0015|S0197,delta 300
+recon_quantity_break,client_positions,A0031|S0175,delta -900
+recon_quantity_break,client_positions,A0023|S0150,delta -1800
+recon_quantity_break,client_positions,A0040|S0137,delta -1800
+recon_quantity_break,client_positions,A0004|S0171,delta 1800
+recon_missing_at_client,client_positions,A0028|S0008,
+recon_missing_at_client,client_positions,A0036|S0118,
+recon_missing_at_client,client_positions,A0017|S0052,
+recon_missing_at_client,client_positions,A0003|S0160,
+recon_missing_at_client,client_positions,A0020|S0198,
+recon_missing_at_client,client_positions,A0039|S0185,
+recon_missing_at_client,client_positions,A0037|S0092,
+recon_missing_at_client,client_positions,A0039|S0059,
+recon_missing_at_custodian,client_positions,A0011|S0043,
+recon_missing_at_custodian,client_positions,A0033|S0106,
+recon_missing_at_custodian,client_positions,A0035|S0009,
+recon_missing_at_custodian,client_positions,A0032|S0017,
+recon_missing_at_custodian,client_positions,A0024|S0118,
+recon_missing_at_custodian,client_positions,A0007|S0050,
+recon_missing_at_custodian,client_positions,A0005|S0159,
+recon_missing_at_custodian,client_positions,A0035|S0050,
+ticker_not_in_map,ticker_isin_map,QQC,
+ticker_not_in_map,ticker_isin_map,UZR,
+p7_missing_at_incoming,p7_incoming_custodian_holdings,AUQNL2HMYIC0,
+p7_missing_at_incoming,p7_incoming_custodian_holdings,DE3HUY55DJY9,
+p7_missing_at_incoming,p7_incoming_custodian_holdings,AUPXLDHM9AF7,
+p7_quantity_break,p7_incoming_custodian_holdings,AUB8A51X2V06,x0.9
+p7_quantity_break,p7_incoming_custodian_holdings,AU4ACNZU6017,x0.95
+p7_quantity_break,p7_incoming_custodian_holdings,DE73OV4PJT41,x0.9
+p7_quantity_break,p7_incoming_custodian_holdings,AUACFNSOXYP8,x1.05
+p7_quantity_break,p7_incoming_custodian_holdings,USDIFWAL4UD7,x1.1
+p7_missing_accrued_income,p7_incoming_custodian_holdings,AU6PU6RCSHS6,
+p7_missing_accrued_income,p7_incoming_custodian_holdings,AUWK5PLIQWB9,
+p7_missing_accrued_income,p7_incoming_custodian_holdings,DEE82KNZVVM3,
+p7_missing_accrued_income,p7_incoming_custodian_holdings,AU0G5WRZUA96,
+p7_missing_accrued_income,p7_incoming_custodian_holdings,AUS8BL8WHVO6,
+p7_missing_accrued_income,p7_incoming_custodian_holdings,AURM2A6Q17L1,
+p7_unmapped_security_id,p7_security_master,UL-007,
+p7_unmapped_security_id,p7_security_master,UL-001,
+p7_unmapped_security_id,p7_security_master,UL-006,
+p7_unmapped_security_id,p7_security_master,UL-013,
+p7_price_anomaly,p7_prices,AUB5U7AZT7D0,2026-06-23
+p7_price_anomaly,p7_prices,AUHKSXBVVZD6,2026-05-01
+p7_price_anomaly,p7_prices,AUA3R1R17LX3,2026-06-18
+p7_price_anomaly,p7_prices,AUDGANCJDBY0,2026-06-01
+p7_price_anomaly,p7_prices,AUZUL1ZGAWQ7,2026-05-28
+p7_stale_price,p7_prices,US1Y8AU82OS5,unchanged for last 8 business days
+p7_stale_price,p7_prices,DEE82KNZVVM3,unchanged for last 8 business days
+p7_stale_price,p7_prices,AUWK20CQ5U87,unchanged for last 8 business days
+p7_stale_price,p7_prices,US3ZMZCYL2E5,unchanged for last 8 business days
+p7_nav_jump,p7_nav,Balanced,2026-05-15
+p7_nav_jump,p7_nav,Growth,2026-05-01
+p7_stale_unlisted_valuation,p7_unlisted_valuations,PRV0014,latest 2025-12-31
+p7_stale_unlisted_valuation,p7_unlisted_valuations,PRV0003,latest 2025-12-31
+p7_stale_unlisted_valuation,p7_unlisted_valuations,PRV0004,latest 2025-12-31
+p7_missing_unlisted_valuation,p7_unlisted_valuations,PRV0011,
+p7_missing_carbon_data,p7_carbon,AUDGANCJDBY0,
+p7_missing_carbon_data,p7_carbon,AU3PIZQMI127,
+p7_missing_carbon_data,p7_carbon,AUUW3GTHUXH3,
+p7_missing_carbon_data,p7_carbon,DE9S5A7EABJ6,

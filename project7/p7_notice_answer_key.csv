@@ -1,0 +1,11 @@
+notice_id,file_name,notice_type,fund_name,investor,currency,amount,notice_date,due_date,reference
+N01,N01_capital_call.pdf,Capital call,Fictional Infrastructure Trust 01,Example Super (fictional),AUD,1000000.0,2026-07-01,2026-07-15,INF-N01-2026
+N02,N02_distribution.pdf,Distribution,Fictional Property Trust 03,Example Super (fictional),AUD,412750.0,2026-07-02,2026-07-10,PRO-N02-2026
+N03,N03_capital_call.pdf,Capital call,Fictional Private Equity Trust 02,Example Super (fictional),USD,1200000.0,2026-07-03,2026-07-17,PRI-N03-2026
+N04,N04_capital_call.pdf,Capital call,Fictional Infrastructure Trust 04,Example Super (fictional),AUD,1250000.0,2026-07-06,2026-07-20,INF-N04-2026
+N05,N05_distribution.pdf,Distribution,Fictional Private Equity Trust 05,Example Super (fictional),USD,87300.5,2026-07-07,2026-07-14,PRI-N05-2026
+N06,N06_capital_call.pdf,Capital call,Fictional Property Trust 06,Example Super (fictional),AUD,1000000.0,2026-07-08,2026-07-22,PRO-N06-2026
+N07,N07_distribution.pdf,Distribution,Fictional Infrastructure Trust 07,Example Super (fictional),AUD,659120.0,2026-07-09,2026-07-16,INF-N07-2026
+N08,N08_capital_call.pdf,Capital call,Fictional Private Equity Trust 08,Example Super (fictional),AUD,1000000.0,2026-07-10,2026-07-24,PRI-N08-2026
+N09,N09_distribution.pdf,Distribution,Fictional Property Trust 09,Example Super (fictional),AUD,230000.0,2026-07-13,2026-07-20,PRO-N09-2026
+N10,N10_capital_call.pdf,Capital call,Fictional Infrastructure Trust 10,Example Super (fictional),USD,780000.0,2026-07-14,2026-07-28,INF-N10-2026

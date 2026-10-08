@@ -1,0 +1,3 @@
+rule_id,rule_name,dataset,dimension,logic,threshold,severity,owner,action_on_failure
+R01,Price is stale,p7_prices,Timeliness,Close price unchanged for N consecutive business days,5 days,High,Pricing team,Query price vendor; flag holding in report
+R02,Unlisted valuation is old,p7_unlisted_valuations,Timeliness,Latest valuation_date older than one quarter before as-at date,> 1 quarter,Medium,Unlisted assets team,Request updated valuation from manager
